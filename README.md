@@ -1,19 +1,20 @@
 
-Name
-Choose a self-explaining name for your project.
+#Love Rosie
+##A mini project with Bootstrap 4. 
+Created with the older Bootstrap 4 documentation, which you can find here: getbootstrap.com/docs/4.6/getting-started/introduction/
 
-This is my first real README. 
+##This is my first real README. 
 I'm using the following resources to guide me. 
 https://www.makeareadme.com/
 https://github.com/matiassingers/awesome-readme
 
-Description
+###Description
 Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
 
-<strong>Please Note, this project is part of my learning with Code Institute.</strong> 
+###Please Note, this project is part of my learning with Code Institute. 
 Bootstrap recently released their newest version: Bootstrap 5. This means that the standard getbootstrap.com link now defaults to the newest version, which includes updated links, scripts and classes that will not work when following along with this video series.
 
-In order to follow along with these videos, you must ensure you are using the older Bootstrap 4 documentation, which you can find here: getbootstrap.com/docs/4.6/getting-started/introduction/
+
 
 Please bookmark this link to use any time you need to access the Bootstrap documentation during this video walkthrough, including the links you need to install it.
 
