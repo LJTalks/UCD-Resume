@@ -3,8 +3,8 @@
 A mini project with Bootstrap 4. 
 Created with the older Bootstrap 4 documentation, which you can find here: getbootstrap.com/docs/4.6/getting-started/introduction/
 
-**This is my first real README. 
-**I'm using the following resources to guide me. 
+**This is my first real README.**
+I'm using the following resources to guide me. 
 https://www.makeareadme.com/
 https://github.com/matiassingers/awesome-readme
 
@@ -14,15 +14,29 @@ Let people know what your project can do specifically. Provide context and add a
 **Please Note**, this project is part of my learning with Code Institute. 
 Bootstrap recently released their newest version: Bootstrap 5. This means that the standard getbootstrap.com link now defaults to the newest version, which includes updated links, scripts and classes that will not work when following along with this video series.
 
-**Current Issues
-Adding menu items. Here we add a class of no-gutters to the col div's, to tidy up the spaces in the menu items. This would be helpful for previous project I got stuck on, but we didn't addthe no-gutters into our .css, so it must just be one of things to know?**
+**Current Issues / Questions**
+Adding menu items. Here we add a class of no-gutters to the col div's, to tidy up the spaces in the menu items. This would be helpful for previous project I got stuck on, but we didn't addthe no-gutters into our .css, so it must just be one of things to know?
+
+Is it still necssary to add the aria-hidden="true" to hide from screen readers? The current fontawesome icons copy paste function doesn't include that... 
+
+![alt text](image.png)
+
+**Resolved issues**
+Some of the issues I have encoutered were
+
+Google fonts is used in a different way now to when the video was compiled. Check (https://fonts.google.com/) for details and tutorials. 
+
+Font Awesome https://fontawesome.com/ has also been updated , and icons are added in a different way.
+
+I chose to complete the project using new code from those sites, rather than copy-paste the older info. 
 
 Please bookmark this link to use any time you need to access the Bootstrap documentation during this video walkthrough, including the links you need to install it.
 
 The Bootstrap Github Repository can be accessed here: github.com/twbs/bootstrap
 
+Do want to know about issues that took me ages to resolve, things like having a rogue </a> in the middle of a line of html that excluded the line from a class for styling? I use diffchecker to check the source code if I can't work it out myself, but I'm increasingly finding that the source code is not always correct and sometimes completely changes from one video to the next!   
 
-Badges
+**Badges**
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
 
 Visuals
