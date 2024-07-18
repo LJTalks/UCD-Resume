@@ -22,6 +22,14 @@ In order to get the same output as the instructor in this video, your version of
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
 
 **Current Issues / Questions**
+Adding contact details: At this point, I should have the full size screen showing about me spanning 2/3 of the page. Mine is split into 2. 
+
+![alt text](image.png)
+
+How did I resolve this? I spent ages on diffchecker checking my code v official CI souce code. There *are* some ffifferences as I've used different links etc, so this got a bit heavy. In the end I decided to keep going, knowing that at some oint the 3rd part of that section would be addressed (I made a note here to remind me to look for the problem). Next video, right at the start he said we should remove the row table class a it can cause issues. Sure enough, by the time the third column was added the issue was resolved. Another "I'm not sure what happened there" moment, but it works so let's move on!  
+
+![alt text](image-1.png)
+
 Adding menu items. Here we add a class of no-gutters to the col div's, to tidy up the spaces in the menu items. This would be helpful for previous project I got stuck on, but we didn't add the no-gutters into our .css, so it must just be one of things to know?
 I think this is because it's part of the hidden .css styles we added using bootstrap; these can all be seen/identified in Chrome devtools. 
 
