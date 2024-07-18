@@ -47,6 +47,10 @@ font-weight: 300;
 color: #fafafa;
 }
 
+.inline-block {
+    display: inline-block;
+}
+
 /*------------------------Heading */
 
 header {
