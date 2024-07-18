@@ -25,7 +25,7 @@ In order to get the same output as the instructor in this video, your version of
 Adding menu items. Here we add a class of no-gutters to the col div's, to tidy up the spaces in the menu items. This would be helpful for previous project I got stuck on, but we didn't add the no-gutters into our .css, so it must just be one of things to know?
 I think this is because it's part of the hidden .css styles we added using bootstrap; these can all be seen/identified in Chrome devtools. 
 
-Is it still necssary to add the aria-hidden="true" to hide from screen readers? The current fontawesome icons copy paste function doesn't include that... 
+Is it still necessary to add the aria-hidden="true" to hide from screen readers? The current fontawesome icons copy paste function doesn't include that... 
 
 ![alt text](image.png)
 
