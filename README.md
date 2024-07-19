@@ -48,6 +48,20 @@ I chose to complete the project using new code from those sites, rather than cop
 
 Do want to know about issues that took me ages to resolve, things like having a rogue </a> in the middle of a line of html that excluded the line from a class for styling? I use diffchecker to check the source code if I can't work it out myself, but I'm increasingly finding that the source code is not always correct and sometimes completely changes from one video to the next!   
 
+**The Column issue**
+A missing End div on line 93, and an extra end div on line 119
+![alt text](./assets/readme-img/issuediffcheck.png)
+![alt text](./assets/readme-img/issue-diffcheck-two.png)
+W3 validator found another rougue end tag 
+![alt text](./assets/readme-img/issuediffcheck.png)
+![alt text](./assets/readme-img/issue-diffcheck-two.png)
+And now the contact details have shifted and the column issue persists!
+![alt text](./assets/readme-img/issue-making-things-worse.png)
+
+
+
+
+
 **Things I love about this project**
 I **Love** the hover sweep to bottom class effect here
 
