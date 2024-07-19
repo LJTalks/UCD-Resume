@@ -52,13 +52,12 @@ Do want to know about issues that took me ages to resolve, things like having a 
 A missing End div on line 93, and an extra end div on line 119
 ![alt text](./assets/readme-img/issuediffcheck.png)
 ![alt text](./assets/readme-img/issue-diffcheck-two.png)
+
 W3 validator found another rougue end tag 
-![alt text](./assets/readme-img/issuediffcheck.png)
-![alt text](./assets/readme-img/issue-diffcheck-two.png)
+![alt text](./assets/readme-img/issue-w3validator.png)
+
 And now the contact details have shifted and the column issue persists!
 ![alt text](./assets/readme-img/issue-making-things-worse.png)
-
-
 
 
 
