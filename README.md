@@ -4,6 +4,7 @@ A mini project with Bootstrap 4. From Code Institute 16 week Full Stack Bootcamp
 Created with the older Bootstrap 4 documentation, which you can find here: www.getbootstrap.com/docs/4.6/getting-started/introduction/
 
 **This is my first ever README.**
+It's still in progress and I'm new to .md files. 
 I'm using the following resources to guide me. 
 https://www.makeareadme.com/
 https://github.com/matiassingers/awesome-readme
@@ -22,6 +23,10 @@ In order to get the same output as the instructor in this video, your version of
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
 
 **Current Issues / Questions**
+
+
+**Resolved issues**
+Some of the issues I have encountered were
 
 Adding contact details: At this point, I should have the full size screen showing about me spanning 2/3 of the page. Mine is split into 2. 
 
@@ -42,7 +47,7 @@ A missing End div on line 93, and an extra end div on line 119
 ![alt text](./assets/readme-img/issuediffcheck.png)
 ![alt text](./assets/readme-img/issue-diffcheck-two.png)
 
-W3 validator found another rougue end tag 
+W3 validator found another rogue end tag 
 ![alt text](./assets/readme-img/issue-w3validator.png)
 
 And now the contact details have shifted and the column issue persists!
@@ -63,14 +68,38 @@ Changes
 ![alt text](./assets/readme-img/student-support-changes3.png)
 
 
-**Resolved issues**
-Some of the issues I have encoutered were
+As I had duplicated the Index page with the error into the Resume page, I now get to duplicate the fix Student Services made to the index page. 
+
+![alt text](./assets/readme-img/error-duplicate-resume-page.png)
+
+It wasn't this change (this was where I changed some diffs then changed them back earlier)
+![alt text](./assets/readme-img/not-this-change.png)
+
+Here it is!
+![alt text](./assets/readme-img/fix-for-resume.png)
+
+
+And it works as it should. I am glad I documented this in this README as I feel it helped to solve the problem, and I've learned loads. I maybe ought to rewrite this to sound a little more professional! 
+
+![alt text](./assets/readme-img/working-resume-page.png)
+
 
 Google fonts is used in a different way now to when the video was compiled. Check (https://fonts.google.com/) for details and tutorials. 
 
 Font Awesome https://fontawesome.com/ has also been updated , and icons are added in a different way.
 
 I chose to complete the project using new code from those sites, rather than copy-paste the older info. 
+
+This has made diffchecker slightly more difficult to identify issues. 
+
+**The logo transition didn't work.**
+This was identified in a coading coach session. 
+The "slide in out" effect didn't work. 
+
+I asked chat gpt to come up with a fix and after some time settled on this 
+
+![alt text](./assets/readme-img/chatgpt-slide-transition.png)
+
 
 
 **Personal notes**
