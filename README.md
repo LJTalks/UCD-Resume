@@ -27,23 +27,17 @@ Adding contact details: At this point, I should have the full size screen showin
 
 ![alt text](./assets/readme-img/image-2-col.png)
 
-How did I resolve this? I spent ages on diffchecker checking my code v official CI souce code. There *are* some ffifferences as I've used different links etc, so this got a bit heavy. In the end I decided to keep going, knowing that at some oint the 3rd part of that section would be addressed (I made a note here to remind me to look for the problem). Next video, right at the start he said we should remove the row table class a it can cause issues. Sure enough, by the time the third column was added the issue was resolved. Another "I'm not sure what happened there" moment, but it works so let's move on!  
+How did I resolve this? I spent ages on diffchecker checking my code v official CI souce code. There *are* some differences as I've used different links etc, so this got a bit heavy. In the end I decided to keep going, knowing that at some point the 3rd part of that section would be addressed (I made a note here to remind me to look for the problem). Next video, right at the start he said we should remove the row table class a it can cause issues. Sure enough, by the time the third column was added the issue was resolved. Another "I'm not sure what happened there" moment, but it works so let's move on!  
 
 ![alt text](./assets/readme-img/image3-cols.png)
 
 
-**Resolved issues**
-Some of the issues I have encoutered were
+**The Column issue Persists...**
 
-Google fonts is used in a different way now to when the video was compiled. Check (https://fonts.google.com/) for details and tutorials. 
+The columns are wrong again and I'm not sure why
 
-Font Awesome https://fontawesome.com/ has also been updated , and icons are added in a different way.
+![alt text](./assets/readme-img/column-issue-persists.png)
 
-I chose to complete the project using new code from those sites, rather than copy-paste the older info. 
-
-Do want to know about issues that took me ages to resolve, things like having a rogue </a> in the middle of a line of html that excluded the line from a class for styling? I use diffchecker to check the source code if I can't work it out myself, but I'm increasingly finding that the source code is not always correct and sometimes completely changes from one video to the next!   
-
-**The Column issue**
 A missing End div on line 93, and an extra end div on line 119
 ![alt text](./assets/readme-img/issuediffcheck.png)
 ![alt text](./assets/readme-img/issue-diffcheck-two.png)
@@ -58,7 +52,30 @@ And now the contact details have shifted and the column issue persists!
 The end div I added to line 93, and the one I removed from 119 to match source code, was incorrect. I have replaced these and the contact details works again. 
 Still need to identify why the 3 columns aren't working. 
 
+**Student Support Fixed It!**
+
+![alt text](./assets/readme-img/student-support-fixed-it.png)
+
+Changes
+
+![alt text](./assets/readme-img/student-support-changes.png)
+![alt text](./assets/readme-img/student-support-changes2.png)
+![alt text](./assets/readme-img/student-support-changes3.png)
+
+
+**Resolved issues**
+Some of the issues I have encoutered were
+
+Google fonts is used in a different way now to when the video was compiled. Check (https://fonts.google.com/) for details and tutorials. 
+
+Font Awesome https://fontawesome.com/ has also been updated , and icons are added in a different way.
+
+I chose to complete the project using new code from those sites, rather than copy-paste the older info. 
+
+
 **Personal notes**
+
+Do want to know about issues that took me ages to resolve, things like having a rogue </a> in the middle of a line of html that excluded the line from a class for styling? I use diffchecker to check the source code if I can't work it out myself, but I'm increasingly finding that the source code is not always correct and sometimes completely changes from one video to the next! 
 
 Adding menu items. Here we add a class of no-gutters to the col div's, to tidy up the spaces in the menu items. This would be helpful for previous project I got stuck on, but we didn't add the no-gutters into our .css, so it must just be one of things to know? I think this is because it's part of the hidden .css styles we added using bootstrap; these can all be seen/identified in Chrome devtools.
 
@@ -83,7 +100,7 @@ Use examples liberally, and show the expected output if you can. It's helpful to
 
 **Support**
 Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-I'm a freelancer so you'kk often find my in front of my scree. Message me here (https://github.com/LJTalks/UCD-Resume) and I'll be in touch!
+I'm a freelancer so you'll often find me in front of my screen. Message me here (https://github.com/LJTalks/UCD-Resume) and I'll be in touch!
 
 **Roadmap**
 If you have ideas for releases in the future, it is a good idea to list them in the README.
