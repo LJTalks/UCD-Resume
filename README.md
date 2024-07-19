@@ -22,6 +22,7 @@ In order to get the same output as the instructor in this video, your version of
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
 
 **Current Issues / Questions**
+
 Adding contact details: At this point, I should have the full size screen showing about me spanning 2/3 of the page. Mine is split into 2. 
 
 ![alt text](./assets/readme-img/image-2-col.png)
@@ -30,12 +31,6 @@ How did I resolve this? I spent ages on diffchecker checking my code v official 
 
 ![alt text](./assets/readme-img/image3-cols.png)
 
-Adding menu items. Here we add a class of no-gutters to the col div's, to tidy up the spaces in the menu items. This would be helpful for previous project I got stuck on, but we didn't add the no-gutters into our .css, so it must just be one of things to know?
-I think this is because it's part of the hidden .css styles we added using bootstrap; these can all be seen/identified in Chrome devtools. 
-
-Is it still necessary to add the aria-hidden="true" to hide from screen readers? The current fontawesome icons copy paste function doesn't include that... 
-
-![alt text](./assets/readme-img/imagen-aria-hidden.png)
 
 **Resolved issues**
 Some of the issues I have encoutered were
@@ -60,6 +55,14 @@ And now the contact details have shifted and the column issue persists!
 ![alt text](./assets/readme-img/issue-making-things-worse.png)
 
 
+The end div I added to line 93, and the one I removed from 119 to match source code, was incorrect. I have replaced these and the contact details works again. 
+Still need to identify why the 3 columns aren't working. 
+
+**Personal notes**
+
+Adding menu items. Here we add a class of no-gutters to the col div's, to tidy up the spaces in the menu items. This would be helpful for previous project I got stuck on, but we didn't add the no-gutters into our .css, so it must just be one of things to know? I think this is because it's part of the hidden .css styles we added using bootstrap; these can all be seen/identified in Chrome devtools.
+
+Is it still necessary to add the aria-hidden="true" to hide from screen readers? The current fontawesome icons copy paste function doesn't include that...
 
 **Things I love about this project**
 I **Love** the hover sweep to bottom class effect here
