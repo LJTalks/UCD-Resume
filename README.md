@@ -23,6 +23,17 @@ In order to get the same output as the instructor in this video, your version of
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
 
 **Current Issues / Questions**
+Resume 20: Adding the contact form. 
+
+The video suggests you can type 'form' and it will suggest 'formsnippet' eg: 
+
+![alt text](./assets/readme-img/20-emmet-formsnippet-instructions.png)
+
+
+
+My gitpod doesn't offer the emmet, I get this instead
+
+![alt text](./assets/readme-img/20-emmet-formsnippet.png)
 
 
 **Resolved issues**
