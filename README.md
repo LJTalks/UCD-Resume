@@ -1,7 +1,7 @@
 
 **Love Rosie**
 A mini project with Bootstrap 4. From Code Institute 16 week Full Stack Bootcamp.  
-Created with the older Bootstrap 4 documentation, which you can find here: www.getbootstrap.com/docs/4.6/getting-started/introduction/
+Created with the older Bootstrap 4 documentation, which you can find here: [www.getbootstrap.com/docs/4.6/getting-started/introduction/](https://getbootstrap.com/docs/4.2/getting-started/introduction/)
 
 **This is my first ever README.**
 It's still in progress and I'm new to .md files. 
@@ -32,7 +32,7 @@ Adding contact details: At this point, I should have the full size screen showin
 
 ![alt text](./assets/readme-img/image-2-col.png)
 
-How did I resolve this? I spent ages on diffchecker checking my code v official CI souce code. There *are* some differences as I've used different links etc, so this got a bit heavy. In the end I decided to keep going, knowing that at some point the 3rd part of that section would be addressed (I made a note here to remind me to look for the problem). Next video, right at the start he said we should remove the row table class a it can cause issues. Sure enough, by the time the third column was added the issue was resolved. Another "I'm not sure what happened there" moment, but it works so let's move on!  
+How did I resolve this? I spent ages on diffchecker checking my code versus official CI souce code. There *are* some differences as I've used different links etc, so this got a bit heavy. In the end I decided to keep going, knowing that at some point the 3rd part of that section would be addressed (I made a note here to remind me to look for the problem). Next video, right at the start he said we should remove the row table class a it can cause issues. Sure enough, by the time the third column was added the issue was resolved. Another "I'm not sure what happened there" moment, but it works so let's move on!  
 
 ![alt text](./assets/readme-img/image3-cols.png)
 
@@ -129,6 +129,7 @@ Use examples liberally, and show the expected output if you can. It's helpful to
 
 **Support**
 Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+
 I'm a freelancer so you'll often find me in front of my screen. Message me here (https://github.com/LJTalks/UCD-Resume) and I'll be in touch!
 
 **Roadmap**
